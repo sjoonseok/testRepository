@@ -16,8 +16,8 @@
 	<div class="loginDiv">
 		<h1>로그인 로직 생성</h1>
 		<br><hr><br>
-		
-	</div>	
+	</div>
+	<h4>reset-test1</h4>
 	
 </body>
 </html>
